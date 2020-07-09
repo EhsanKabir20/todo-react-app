@@ -1,5 +1,5 @@
-## projects-app-react
+## todo-react-app
 
-In the project, you can see how drag drop and react-redux is used.
+In the project, you can see how drag drop sorting and react-redux is used.
 
-![til](./projects-drap-drop.gif)
+![til](./todo-react-app.gif)

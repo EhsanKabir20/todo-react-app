@@ -1,0 +1,32 @@
+.ProjectsContainer {
+  padding: 30px 15px;
+  background: lightcyan;
+}
+
+.project {
+  cursor: move;
+  display: flex;
+  box-shadow: rgb(102, 102, 102) 0px 0px 2px;
+  margin-left: 0px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  border-image: initial;
+  background: rgb(255, 255, 255);
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.cardHeader {
+  font-weight: 600;
+  font-size: 12px;
+  color: rgb(81, 97, 103);
+  background-color: rgb(234, 234, 234);
+  text-transform: uppercase;
+  border-bottom: 0px !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 20px;
+}
